@@ -1,4 +1,8 @@
-### ![dancing lady](http://i.imgur.com/xhBo7N0.gif) prot.js
+<h1 align="center">
+<img src="http://i.imgur.com/xhBo7N0.gif">
+<br>
+prot.js
+</h1>
 
 Additions to JavaScript's prototypes,
 named after [Prot from *K-Pax*](https://en.wikipedia.org/wiki/K-PAX).💫
